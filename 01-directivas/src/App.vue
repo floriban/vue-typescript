@@ -24,3 +24,52 @@ const arrayEmoji = ['🍔', '🥞', '🍳', '🥐', '🥯', '🥖', '🍛', '�
 </template>
 
 <style scoped></style>
+
+
+const preguntasProgramacion = [
+{
+pregunta: "¿Cuál de los siguientes es un lenguaje de programación orientado a objetos?",
+respuestas: [
+"A) HTML",
+"B) Java",
+"C) CSS"
+],
+correcta: 1
+},
+{
+pregunta: "¿Qué método se utiliza para unir dos arreglos en JavaScript?",
+respuestas: [
+"A) push()",
+"B) concat()",
+"C) join()"
+],
+correcta: 1
+},
+{
+pregunta: "¿Cuál es el resultado de '2' + 2 en JavaScript?",
+respuestas: [
+"A) 22",
+"B) 4",
+"C) NaN"
+],
+correcta: 0
+},
+{
+pregunta: "¿Qué significa SQL?",
+respuestas: [
+"A) Structured Query Language",
+"B) Strong Question Language",
+"C) Simple Query Language"
+],
+correcta: 0
+},
+{
+pregunta: "¿Qué herramienta se utiliza para compilar programas escritos en C?",
+respuestas: [
+"A) Notepad",
+"B) GCC",
+"C) Photoshop"
+],
+correcta: 1
+}
+];
